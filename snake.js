@@ -26,7 +26,7 @@ up.src = "audio/up.mp3";
 right.src = "audio/right.mp3";
 left.src = "audio/left.mp3";
 down.src = "audio/down.mp3";
-backgroundmusic.src ="audio/Inkem Inkem Full Video Song   Geetha Govindam   Vijay Deverakonda, Rashmika, Gopi Sunder";
+backgroundmusic.src ="audio/Inkem Inkem Full Video Song   Geetha Govindam   Vijay Deverakonda, Rashmika, Gopi Sunder.mp3";
 
 // create the snake
 let snake = [];
