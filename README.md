@@ -9,3 +9,4 @@ You can play : https://kant146.github.io/Snake-Game-146/
 <p align="center"><img src="giphy (1).gif"></p>
 <h3 align="center" >Still feel same but we know who gonna love this </h3>
 <p align="center"><img src="1497533116-not-dead.gif"></p>
+<p align="center"><img src="tenor.0.gif"></p>
