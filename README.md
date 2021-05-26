@@ -1,42 +1,11 @@
-## Welcome to GitHub Pages
+## Snake-Game-146
 
 You can play : https://kant146.github.io/Snake-Game-146/
-
-
-
-
-You can use the [editor on GitHub](https://github.com/kant146/Snake-Game-146/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kant146/Snake-Game-146/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p align="center"><img src="CZ3RHh5.gif"></p>
+<h3 align="center" >I know you wanna play that old game </h3>
+<p align="center"><img src="3QjW.gif"></p>
+<h3 align="center" >Trust me its different & better </h3>
+<p align="center"><img src="giphy.gif"></p>
+<p align="center"><img src="giphy (1).gif"></p>
+<h3 align="center" >Still feel same but we know gonna love this </h3>
+<p align="center"><img src="1497533116-not-dead.gif"></p>
