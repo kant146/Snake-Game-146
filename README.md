@@ -17,12 +17,6 @@
 
 
 
-![Webp net-resizeimage](https://user-images.githubusercontent.com/47590877/111044054-4726ed80-846c-11eb-974c-027a70058bbd.jpg)
-![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/47590877/111044119-a422a380-846c-11eb-897a-294de19d1aa3.jpg)
-![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/47590877/111044182-09769480-846d-11eb-8625-eb19bace4172.jpg)
-![Webp net-resizeimage (3)](https://user-images.githubusercontent.com/47590877/111044218-3aef6000-846d-11eb-982a-825e8b3697e9.jpg)
-![Webp net-resizeimage (4)](https://user-images.githubusercontent.com/47590877/111044457-eb119880-846e-11eb-927d-79be614c51da.jpg)
-
 
 You can play : https://kant146.github.io/Snake-Game-146/
 <h3 align="center" >Here i made <b>Snake Game</> for  New generation kids , where you can play with more fun </h3>
